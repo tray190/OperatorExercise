@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7c3a890-eb76-44b4-85f7-ad7a7a6bf573": {
+      "ProjectGuid": "e7c3a890-eb76-44b4-85f7-ad7a7a6bf573",
+      "DisplayName": "OperatorExercise",
+      "ColorIndex": 0
+    },
+    "395b3a69-83c3-4058-86c3-e1c1057923d6": {
+      "ProjectGuid": "395b3a69-83c3-4058-86c3-e1c1057923d6",
+      "DisplayName": "AreaOfCircle",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
